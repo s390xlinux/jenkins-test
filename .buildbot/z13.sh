@@ -1,1 +1,1 @@
-echo "Hello World 6!"
+cat README.rst
